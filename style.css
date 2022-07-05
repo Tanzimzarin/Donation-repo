@@ -1,0 +1,36 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.front-image {
+
+    background-image: url(donate-today-main/images/donation1.jpg);
+
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin: 0%;
+}
+
+.front-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: whitesmoke;
+}
+
+.button-download {
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    padding: 10px 20px;
+    border-radius: 5px;
+}

@@ -6,6 +6,22 @@ h1 {
     font-size: 50px;
 }
 
+h2 {
+    font-size: 40px;
+    font-weight: 900;
+    margin-top: 80px;
+}
+
+.section-margin {
+    margin-bottom: 80px;
+}
+
+.section-mar-top-bot {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
 .front-image {
 
     background-image: url(donate-today-main/images/donation1.jpg);
@@ -33,4 +49,45 @@ h1 {
     background-color: tomato;
     padding: 10px 20px;
     border-radius: 5px;
+    margin-top: 80%;
+}
+
+.mid-text {
+    text-align: center;
+
+}
+
+#alignment {
+
+    margin-left: 30%;
+    margin-right: 25%;
+    display: flex;
+
+}
+
+.box {
+    height: 50px;
+    width: 50px;
+    color: darkslategrey;
+    background-color: aliceblue;
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: 900;
+}
+
+#box-design {
+    height: 50px;
+    width: 50px;
+    color: darkslategrey;
+    background-color: rgb(255, 223, 212);
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: 900;
+    border: 2px solid red;
+}
+
+#text-color {
+    color: rgb(122, 155, 155);
 }

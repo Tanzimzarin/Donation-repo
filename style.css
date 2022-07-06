@@ -100,7 +100,7 @@ h2 {
 }
 
 #food-box {
-    background-color: rgb(222, 252, 252);
+    background-color: rgb(236, 255, 255);
     border-radius: 10px;
     height: 80%;
     width: 70%;
@@ -109,7 +109,7 @@ h2 {
 }
 
 #shelter-box {
-    background-color: rgb(253, 232, 250);
+    background-color: rgb(255, 239, 242);
     border-radius: 10px;
     height: 80%;
     width: 70%;
@@ -118,7 +118,7 @@ h2 {
 }
 
 #education-box {
-    background-color: rgb(253, 225, 213);
+    background-color: rgb(255, 237, 210);
     border-radius: 10px;
     height: 80%;
     width: 70%;
@@ -168,11 +168,12 @@ h2 {
 #email {
     background-color: lightgray;
     color: darkgray;
-    text-align: left;
+
     font-weight: 800;
-    padding: 20px 150px;
+    padding: 20px 250px 20px 10px;
     display: inline;
     border-radius: 3px;
+    text-align-last: right;
 }
 
 #submit {

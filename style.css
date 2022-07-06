@@ -124,3 +124,23 @@ h2 {
     margin: 10px 20px;
     padding: 42px 10px;
 }
+
+#footer-design {
+    background-color: black;
+    text-align: center;
+}
+
+#footer-font {
+
+    color: crimson;
+    font-family: cursive;
+    font-weight: 900;
+    font-size: 20PX;
+    padding-top: 30px;
+}
+
+#footer-text {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 20px;
+}
